@@ -1,0 +1,6 @@
+[submodule "Scene Prototyping 1/Assets/VolumetricLighting"]
+	path = Scene Prototyping 1/Assets/VolumetricLighting
+	url = https://github.com/Unity-Technologies/VolumetricLighting.git
+[submodule "Scene Prototyping 1/Assets/PostProcessing"]
+	path = Scene Prototyping 1/Assets/PostProcessing
+	url = https://github.com/Unity-Technologies/PostProcessing.git
